@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key">Please key in your own the movies database api key here.</string>
+</resources>
